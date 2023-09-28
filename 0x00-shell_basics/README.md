@@ -7,3 +7,4 @@ script 5:displays current directory contents in long format, with user and group
 script 6:creates a directory named my_first_directory in the /tmp/ directory
 script 7:moves the file betty from /tmp/ to /tmp/my_first_directory
 script 8:delete the file betty
+script 9:delete the directory my_first_directory that is in the /tmp directory
