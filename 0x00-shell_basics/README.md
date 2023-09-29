@@ -17,3 +17,4 @@ script 15:moves all files beginning with an uppercaseletter to the directory /tm
 script 16:deletes all files in the current working directory that end with the character ~
 script 17:creates the directories welcome/,welcome/to/ and welcome/to/school in the current directory
 script 18:lists all the files and directories of the current directory separated by commas
+script 19:creates a magic file school.mgc that can be used with the command file to detect School datafiles. School datafiles always contain the string SCHOOL at offset 0
