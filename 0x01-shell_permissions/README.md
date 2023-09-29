@@ -9,4 +9,5 @@ script 7:adds execution permission to the owner,the group owner and the other us
 script 8:sets all permissions to other users and no permission at all to the owner or group
 script 9:sets mode of the file hello to - rwxr-x-wx
 script 10:sets the mode of the file hello the same as olleh's mode
-scriot 11:adds execute permission to all subdirectories of the current directory for the owner,group owner and all other users
+script 11:adds execute permission to all subdirectories of the current directory for the owner,group owner and all other users
+script 12:creates a directory called my_dir with permissions 751 in the working directory
