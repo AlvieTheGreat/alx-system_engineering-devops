@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x ./*dir
+find . -type d -name "*dir" -exec chmod ugo+x
