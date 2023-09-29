@@ -14,3 +14,4 @@ script 12:prints the type of the file named iamafile
 script 13:creates a symbolic link to /bin/ls named __ls__.link should be created in the current working directory
 script 14:creates a script that copies all the HTML files from the current working directory to the parent working directory but only copies files that didnot exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 script 15:moves all files beginning with an uppercaseletter to the directory /tmp/u
+script 16:deletes all files in the current working directory that end with the character ~
