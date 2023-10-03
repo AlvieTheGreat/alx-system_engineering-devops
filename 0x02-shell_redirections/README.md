@@ -35,3 +35,4 @@ One file name per line
 The listing should end with a new line
 You are not allowed to use basename, grep, egrep, fgrep or rgrep
 script25 :decodes acrostics that use the first letter of each line. the decoded message has to end with a new line.
+script26 :parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. order by number of requests, most active host or IP at the top
