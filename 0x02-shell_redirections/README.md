@@ -22,3 +22,8 @@ script19 :Replaces all characters A and c from input to Z and e respectively
 script20 :Creates a script that removes all letters c and C from input.
 script21 :reverses its input.
 script22 :displays all users and their home directories, sorted by users.Based on the the /etc/passwd file
+script23 :finds all empty files and directories in the current directory and all sub-directories.Only the names of the files and directories should be displayed (not the entire path)
+Hidden files should be listed
+One file name per line
+The listing should end with a new line
+You are not allowed to use basename, grep, egrep, fgrep or rgrep
