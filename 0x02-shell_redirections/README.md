@@ -13,4 +13,5 @@ script10 :deletes all the regular files (not the directories) with a .js extensi
 script11 :counts the number of directories and sub-directories in the current directory.The current and parent directories should not be taken into account.Hidden directories should be counted
 script12 :displays the 10 newest files in the current directory.One file per line.Sorted from the newest to the oldest
 script13 :takes a list of words as input and prints only words that appear exactly once.Input format: One line, one word.Output format: One line, one word.Words should be sorted
-script14 :Display lines containing the pattern “root” from the file /etc/passwd
+script14 :Displays lines containing the pattern “root” from the file /etc/passwd
+script15 :Display the number of lines that contain the pattern “bin” in the file /etc/passwd
