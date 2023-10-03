@@ -19,4 +19,5 @@ script16 :Displays lines containing the pattern “root” and 3 lines after the
 script17 :Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 script18 :Displays all lines of the file /etc/ssh/sshd_config starting with a letter.include capital letters as well
 script19 :Replaces all characters A and c from input to Z and e respectively
-script20 :Create a script that removes all letters c and C from input.
+script20 :Creates a script that removes all letters c and C from input.
+script21 :reverses its input.
