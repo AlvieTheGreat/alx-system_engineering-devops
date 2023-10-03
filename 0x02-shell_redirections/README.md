@@ -12,3 +12,4 @@ script9 :Writes a script that duplicates the last line of the file iacta.The fil
 script10 :deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 script11 :counts the number of directories and sub-directories in the current directory.The current and parent directories should not be taken into account.Hidden directories should be counted
 script12 :displays the 10 newest files in the current directory.One file per line.Sorted from the newest to the oldest
+script13 :takes a list of words as input and prints only words that appear exactly once.Input format: One line, one word.Output format: One line, one word.Words should be sorted
