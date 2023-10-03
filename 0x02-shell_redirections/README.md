@@ -7,3 +7,4 @@ script4 :Displays the last 10 lines of /etc/passwd
 script5 :Displays the first 10 lines of /etc/passwd
 script6 :displays the third line of the file iacta.the file acta will be in the working directory.
 script7 :creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+script8 :writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
