@@ -3,3 +3,4 @@ script1 :displays a confused smiley "(Ôo)'. use forward slash(\) to escape the 
 script2 :Displays the content of the /etc/passwd file.
 script3 :Displays the content of /etc/passwd and /etc/hosts together or at once
 script4 :Displays the last 10 lines of /etc/passwd
+script5 :Display the first 10 lines of /etc/passwd
