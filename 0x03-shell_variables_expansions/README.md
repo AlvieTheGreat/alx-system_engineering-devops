@@ -4,3 +4,4 @@ script 2 - Add /action to the PATH. /action should be the last directory the she
 script 3 - counts the number of directories in the PATH
 script 4 - lists environment variables.
 script 5 - lists all local variables and environment variables, and functions.
+script 6 -creates a new local variable.Name: BEST.Value: School
